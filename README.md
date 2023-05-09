@@ -1,1 +1,1 @@
-# Statistics
+<center> # Statistics
